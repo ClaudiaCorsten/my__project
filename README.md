@@ -15,9 +15,18 @@
   (rsa Schlüssel vorhanden)
 
 
-6. -
+6. Um einen Schlüssel zu generieren
 
-7. -
+- ssh-keygen -t rsa -b 4096 -C „c-corsten@t-online.de“
+
+
+7. den vorgeschlagenen Order im Explorer öffnen
+   
+- Code auswählen und Key-Code kopieren
+  
+- bei GitHub SSH Keys/New SSH einfügen und Namen dafür vergeben
+  
+- per Klick auf den Button „add SSH Key“ Schlüssel hinzufügen
 
 
 8. in Verzeichnis „RepoTest“ gewechselt, in dem das Git-Repo erstellt werden soll
