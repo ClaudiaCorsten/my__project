@@ -2,7 +2,7 @@
 
 1. in GitHub angemeldet
 
-2. neues Repository erstellt durch Klick auf Button „+ Neu“
+2. neues Repository inkl. README erstellt durch Klick auf Button „+ Neu“
 
 3. URL des erstellten Repositorys: https://github.com/ClaudiaCorsten/My__Project.git
 
