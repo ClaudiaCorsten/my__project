@@ -12,8 +12,6 @@
 
 - ls ~/.ssh/
 
-  (rsa Schlüssel vorhanden)
-
 
 6. Um einen Schlüssel zu generieren
 
