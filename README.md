@@ -18,7 +18,7 @@
 - ssh-keygen -t rsa -b 4096 -C „c-corsten@t-online.de“
 
 
-7. den vorgeschlagenen Order im Explorer öffnen
+7. den vorgeschlagenen Ordner im Explorer öffnen
    
 - Code auswählen und Key-Code kopieren
   
